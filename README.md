@@ -1,6 +1,8 @@
 # 2017-Summer-Reading-List
 My reading list for my Summer 2017 internship at Voyage. Material that I found useful or interesting during work.
 
+Note: reuploaded after github wiped my account.
+
 
 | Paper Link   | Paper Title | Paper Description |
 |----------|:----------------:|:-------------------------:|
